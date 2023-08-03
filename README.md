@@ -23,3 +23,5 @@
 
 - Lastly, the category of a customer was predicted by finding the RFM values (3D coordinate) and calculating the point’s distance in the 3D space from the centers of all the 3 clusters and finding the minimum.
   ![image](https://github.com/kanuj-boora/Customer-Segmentation/assets/88098204/372594bf-b3cd-45e2-97c7-ca2c7c16c0ff)
+
+Collaborator: Jaskirat Singh
